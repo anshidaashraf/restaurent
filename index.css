@@ -177,7 +177,7 @@ p{
     
 }
 .main5{
-    background-image: url("new images/section_bg041.png");
+    background-image: url("section_bg041.png");
     background-repeat: no-repeat;
     height: 500px;
     margin-top: 0;
@@ -265,7 +265,7 @@ h2{
     margin-top: 20px;
 }
 .main7{
-    background-image: url("new images/back123.png");
+    background-image: url("back123.png");
     height: 600px;
 
 }
@@ -386,7 +386,7 @@ h2{
     gap: 20px;
 }
 .last{
-    background-image: url("new images/section_bg02.png");
+    background-image: url("section_bg02.png");
     display: flex;
     flex-direction: column;
     justify-content: center;
